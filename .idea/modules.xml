@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AliyunCloudService.iml" filepath="$PROJECT_DIR$/.idea/AliyunCloudService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FaceRecognition/FaceRecognition.iml" filepath="$PROJECT_DIR$/FaceRecognition/FaceRecognition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmsSend/smssend.iml" filepath="$PROJECT_DIR$/SmsSend/smssend.iml" />
+    </modules>
+  </component>
+</project>
